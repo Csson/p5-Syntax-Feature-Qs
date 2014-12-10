@@ -33,6 +33,7 @@ Their purpose is to automatically trim leading and trailing horizontal whitespac
 # SEE ALSO
 
 - [Syntax::Feature::Ql](https://metacpan.org/pod/Syntax::Feature::Ql) (which served as a base for this)
+- [Syntax::Feature::Qi](https://metacpan.org/pod/Syntax::Feature::Qi)
 - [syntax](https://metacpan.org/pod/syntax)
 
 # AUTHOR

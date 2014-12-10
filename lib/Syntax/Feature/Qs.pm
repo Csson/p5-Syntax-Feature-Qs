@@ -113,6 +113,8 @@ Their purpose is to automatically trim leading and trailing horizontal whitespac
 
 =item L<Syntax::Feature::Ql> (which served as a base for this)
 
+=item L<Syntax::Feature::Qi>
+
 =item L<syntax>
 
 =back
