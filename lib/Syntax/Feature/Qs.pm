@@ -38,7 +38,8 @@ method install($class: %args) {
     }
     on_scope_end {
         namespace::clean->clean_subroutines($target, @new_ops);
-    }
+    };
+    return 1;
 }
 
 method _run_callback {

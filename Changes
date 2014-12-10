@@ -1,5 +1,21 @@
 Revision history for Syntax-Feature-Qs
 
 {{$NEXT}}
-   - Initial release
+ [API Changes]
+
+ [Bug Fixes]
+ - install didn't return true.
+
+ [Documentation]
+
+ [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Revision]
+
+0.0100 2014-12-10T13:51:35Z CET
+ - Initial release
 
