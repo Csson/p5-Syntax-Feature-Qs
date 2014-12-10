@@ -81,8 +81,6 @@ __END__
 
 Syntax::Feature::Qs - Trim whitespace from all lines
 
-=for html <p><a style="float: left;" href="https://travis-ci.org/Csson/p5-Syntax-Feature-Qs"><img src="https://travis-ci.org/Csson/p5-Syntax-Feature-Qs.svg?branch=master">&nbsp;</a>
-
 =head1 SYNOPSIS
 
     use syntax 'qs';
