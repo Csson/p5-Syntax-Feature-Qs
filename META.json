@@ -41,6 +41,7 @@
             "B::Hooks::EndOfScope" : "0.09",
             "Devel::Declare" : "0.006007",
             "Devel::Declare::Context::Simple" : "0",
+            "MooseX::Role::Parameterized" : "1.00",
             "Sub::Install" : "0.925",
             "Syntax::Feature::Simple::V2" : "0",
             "namespace::clean" : "0",
