@@ -1,4 +1,4 @@
-requires 'perl', '5.08005';
+requires 'perl', '5.008005';
 
 requires 'Devel::Declare', '0.006007';
 requires 'B::Hooks::EndOfScope', '0.09';
