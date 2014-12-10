@@ -40,6 +40,7 @@ method install($class: %args) {
         namespace::clean->clean_subroutines($target, @new_ops);
     }
 }
+
 method _run_callback {
     return sub ($) {
         my $string = shift;
@@ -70,7 +71,6 @@ method _transform ($class: $name, $ctx) {
 }
 
 1;
-
 
 __END__
 
