@@ -9,6 +9,6 @@ requires 'Syntax::Feature::Simple::V2';
 requires 'namespace::clean';
 
 on 'test' => sub {
-    requires 'Test::More', '0.96.;
+    requires 'Test::More', '0.96';
     requires 'syntax';
 };
