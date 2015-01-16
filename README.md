@@ -1,6 +1,10 @@
 # NAME
 
-Syntax::Feature::Qs - Trim whitespace from all lines
+Syntax::Feature::Qs - Trim leading whitespace from all lines in a string
+
+# VERSION
+
+Version 0.0103, released 2015-01-16.
 
 # SYNOPSIS
 
@@ -30,17 +34,24 @@ Their purpose is to automatically trim leading and trailing horizontal whitespac
 
 - [Syntax::Feature::Ql](https://metacpan.org/pod/Syntax::Feature::Ql) (which served as a base for this)
 - [Syntax::Feature::Qi](https://metacpan.org/pod/Syntax::Feature::Qi)
+- [String::Nudge](https://metacpan.org/pod/String::Nudge)
 - [syntax](https://metacpan.org/pod/syntax)
+
+# SOURCE
+
+[https://github.com/Csson/p5-Syntax-Feature-Qs](https://github.com/Csson/p5-Syntax-Feature-Qs)
+
+# HOMEPAGE
+
+[https://metacpan.org/release/Syntax-Feature-Qs](https://metacpan.org/release/Syntax-Feature-Qs)
 
 # AUTHOR
 
 Erik Carlsson <info@code301.com>
 
-# COPYRIGHT
+# COPYRIGHT AND LICENSE
 
-Copyright 2014 - Erik Carlsson
+This software is copyright (c) 2015 by Erik Carlsson.
 
-# LICENSE
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.

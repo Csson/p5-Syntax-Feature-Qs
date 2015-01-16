@@ -6,15 +6,24 @@ Revision history for Syntax-Feature-Qs
  [Bug Fixes]
 
  [Documentation]
+ - Cleaned up, now built with Pod::Weaver
 
  [Enhancements]
 
  [Meta]
- - Added test prereq.
+ - Added git repo to meta
+ - Removed dependency on Syntax::Feature::Simple::V2
+ - Removed dependency on aliased
+ - Now uses @Author::CSSON dist zilla bundle, extracted
+ - Added test prereqs.
 
  [New Features]
 
  [Revision]
+
+0.0102 2014-12-14T23:28:33Z CET
+ [Meta]
+ - Added test prereq.
 
 0.0101 2014-12-10T18:54:12Z CET
  [Bug Fixes]
