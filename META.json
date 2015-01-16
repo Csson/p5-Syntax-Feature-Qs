@@ -1,10 +1,10 @@
 {
-   "abstract" : "Trim whitespace from all lines",
+   "abstract" : "Trim leading whitespace from all lines in a string",
    "author" : [
       "Erik Carlsson <info@code301.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Dist::Zilla version 5.029, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "perl_5"
    ],
@@ -31,6 +31,8 @@
       },
       "develop" : {
          "requires" : {
+            "Test::EOF" : "0",
+            "Test::EOL" : "0",
             "Test::More" : "0",
             "Test::NoTabs" : "0",
             "Test::Pod" : "1.41"
@@ -54,7 +56,24 @@
          }
       }
    },
+   "provides" : {
+      "Syntax::Feature::Qs" : {
+         "file" : "lib/Syntax/Feature/Qs.pm",
+         "version" : "0.0103"
+      }
+   },
    "release_status" : "stable",
-   "version" : "0.0102"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Csson/p5-Syntax-Feature-Qs/issues"
+      },
+      "homepage" : "https://metacpan.org/release/Syntax-Feature-Qs",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Csson/p5-Syntax-Feature-Qs.git",
+         "web" : "https://github.com/Csson/p5-Syntax-Feature-Qs"
+      }
+   },
+   "version" : "0.0103"
 }
 
