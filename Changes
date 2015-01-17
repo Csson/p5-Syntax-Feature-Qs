@@ -6,9 +6,25 @@ Revision history for Syntax-Feature-Qs
  [Bug Fixes]
 
  [Documentation]
- - Cleaned up, now built with Pod::Weaver
 
  [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Revision]
+
+ [Requirements]
+ - Require correct Perl version. \h was introduced in 5.10.
+
+0.2001 2015-01-16T18:06:25Z CET
+ [Meta]
+ - Remove requires Syntax::Feature::Simple::V2 from cpanfile
+
+0.2000 2015-01-16T17:43:33Z CET
+ [Documentation]
+ - Cleaned up, now built with Pod::Weaver
 
  [Meta]
  - Added git repo to meta
@@ -16,10 +32,6 @@ Revision history for Syntax-Feature-Qs
  - Removed dependency on aliased
  - Now uses @Author::CSSON dist zilla bundle, extracted
  - Added test prereqs.
-
- [New Features]
-
- [Revision]
 
 0.0102 2014-12-14T23:28:33Z CET
  [Meta]

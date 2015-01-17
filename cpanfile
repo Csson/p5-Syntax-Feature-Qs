@@ -1,4 +1,4 @@
-requires 'perl', '5.008005';
+requires 'perl', '5.010001';
 
 requires 'MooseX::Role::Parameterized', '1.00';
 requires 'Devel::Declare', '0.006007';
