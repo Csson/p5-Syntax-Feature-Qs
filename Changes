@@ -16,6 +16,11 @@ Revision history for Syntax-Feature-Qs
  [Revision]
 
  [Requirements]
+ - Now has 'syntax' as a build requirement (not a test req).
+ - Removed MooseX::Role::Parameterized as a prereq, not used since 0.2001.
+
+0.2002 2015-01-17T14:29:19Z CET
+ [Requirements]
  - Require correct Perl version. \h was introduced in 5.10.
 
 0.2001 2015-01-16T18:06:25Z CET

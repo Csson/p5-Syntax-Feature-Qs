@@ -4,7 +4,7 @@ Syntax::Feature::Qs - Trim leading whitespace from all lines in a string
 
 # VERSION
 
-Version 0.2002, released 2015-01-17.
+Version 0.2003, released 2015-01-17.
 
 # SYNOPSIS
 
