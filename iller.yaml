@@ -13,10 +13,10 @@ plugins:
     - cpanm Pod::Weaver::Section::Source::DefaultGitHub
     - cpanm Pod::Weaver::Section::Homepage::DefaultCPAN
     - cpanm Pod::Elemental::Transformer::List
-    - cpanm Pod::Elemental::Transformer::Splint
-
 ---
 +doctype: weaver
 
 plugins:
   - config: Author::CSSON
+
+  - remove_plugin: Splint
