@@ -10,11 +10,16 @@ Revision history for Syntax-Feature-Qs
  [Enhancements]
 
  [Meta]
+ - Generate dist.ini and weaver.ini from iller.yaml.
 
  [New Features]
 
- [Revision]
+ [Requirements]
 
+ [Revision]
+ - Bump version to get indexed.
+
+0.2003 2015-01-17T19:47:34Z CET
  [Requirements]
  - Now has 'syntax' as a build requirement (not a test req).
  - Removed MooseX::Role::Parameterized as a prereq, not used since 0.2001.

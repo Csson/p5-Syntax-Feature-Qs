@@ -4,7 +4,7 @@ Syntax::Feature::Qs - Trim leading whitespace from all lines in a string
 
 # VERSION
 
-Version 0.2003, released 2015-01-17.
+Version 0.2004, released 2015-02-10.
 
 # SYNOPSIS
 
@@ -51,7 +51,7 @@ Erik Carlsson <info@code301.com>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Erik Carlsson.
+This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
