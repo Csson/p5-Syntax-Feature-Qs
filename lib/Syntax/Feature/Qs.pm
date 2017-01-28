@@ -5,7 +5,7 @@ package Syntax::Feature::Qs;
 
 # ABSTRACT: Trim leading whitespace from all lines in a string
 # AUTHORITY
-our $VERSION = '0.2005';
+our $VERSION = '0.2006';
 
 use Devel::Declare 0.006007 ();
 use B::Hooks::EndOfScope 0.09;
