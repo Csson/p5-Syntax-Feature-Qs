@@ -10,11 +10,19 @@ Revision history for Syntax-Feature-Qs
  [Enhancements]
 
  [Meta]
- - Generate dist.ini and weaver.ini from iller.yaml.
+ - Use current Dist::Iller::Config::Author::CSSON
 
  [New Features]
 
  [Requirements]
+
+ [Revision]
+
+ [Testing]
+
+0.2004 2015-02-10T13:10:27Z CET
+ [Meta]
+ - Generate dist.ini and weaver.ini from iller.yaml.
 
  [Revision]
  - Bump version to get indexed.
