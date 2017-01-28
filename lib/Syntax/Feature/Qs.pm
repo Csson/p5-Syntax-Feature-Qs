@@ -3,8 +3,9 @@ use warnings;
 
 package Syntax::Feature::Qs;
 
-# VERSION
 # ABSTRACT: Trim leading whitespace from all lines in a string
+# AUTHORITY
+our $VERSION = '0.2005';
 
 use Devel::Declare 0.006007 ();
 use B::Hooks::EndOfScope 0.09;
