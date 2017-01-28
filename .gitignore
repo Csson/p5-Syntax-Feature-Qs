@@ -1,8 +1,12 @@
-/Syntax-Feature-Qs-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2017-01-28 13:12:12 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0313
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
-
+/Syntax-Feature-Qs-*
+.coverhistory.json
