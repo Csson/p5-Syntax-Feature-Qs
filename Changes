@@ -1,7 +1,29 @@
 Revision history for Syntax-Feature-Qs
 
 {{$NEXT}}
- No functional changes, released as 1.0000.
+ [API Changes]
+
+ [Bug Fixes]
+
+ [Documentation]
+
+ [Enhancements]
+
+ [New Features]
+
+ [Other Changes]
+
+ [Requirements]
+
+ [Stats & Dependency Changes]
+
+ [Testing]
+
+1.0000 2017-02-12T12:08:26Z UTC
+ - No functional changes, released as 1.0000.
+
+ [Stats & Dependency Changes]
+ - 1 file changed, 5 insertions(+), 4 deletions(-)
 
 0.2005 2017-01-28T13:26:18Z UTC
  [Meta]
