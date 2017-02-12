@@ -140,7 +140,7 @@
    "provides" : {
       "Syntax::Feature::Qs" : {
          "file" : "lib/Syntax/Feature/Qs.pm",
-         "version" : "0.2005"
+         "version" : "1.0000"
       }
    },
    "release_status" : "stable",
@@ -155,7 +155,7 @@
          "web" : "https://github.com/Csson/p5-Syntax-Feature-Qs"
       }
    },
-   "version" : "0.2005",
+   "version" : "1.0000",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.020001"
@@ -658,7 +658,7 @@
                   "branch" : null,
                   "changelog" : "Changes",
                   "signed" : 0,
-                  "tag" : "0.2005",
+                  "tag" : "1.0000",
                   "tag_format" : "%v",
                   "tag_message" : "Release %v%n%n%c"
                },
